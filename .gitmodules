@@ -1,6 +1,0 @@
-[submodule "Blinkit"]
-	path = Blinkit
-	url = https://github.com/yashrajput74/Blinkit.git
-[submodule "DynamicTable"]
-	path = DynamicTable
-	url = https://github.com/yashrajput74/DynamicTable.git
